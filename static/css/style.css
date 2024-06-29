@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+html{
+    font-size: 25px;
+
+}
+.navbar{
+    font-size: 25px;
+
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+.carousel-item img{
+    
+    object-position: top;
+    height: 70vh;
+    overflow: hidden;
+}
